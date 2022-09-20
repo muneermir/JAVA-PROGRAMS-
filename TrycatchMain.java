@@ -1,4 +1,4 @@
-class Main {
+class YrycatchMain {
   public static void main(String[] args) {
 
     try {
